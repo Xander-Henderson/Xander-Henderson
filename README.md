@@ -1,6 +1,6 @@
 ### Hi there 👋, Xander-Henderson
-#### Student
-![Student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 I am a student at St. Mother Teresa high school. I also am on a FRC team, on the software subteam.
 
